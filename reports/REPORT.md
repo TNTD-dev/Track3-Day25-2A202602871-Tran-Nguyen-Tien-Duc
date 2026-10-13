@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Trần Nguyễn Tiến Đức / 2A202602871  **Commit:** CHƯA COMMIT THEO YÊU CẦU  **Điểm tự động:** 84 / 88 cục bộ; 4 điểm SLO ẩn do giảng viên chấm
+**Họ tên / nhóm:** Trần Nguyễn Tiến Đức / 2A202602871  **Commit:** `eb7a3104c79f8d2d41272f156e3f8a3741e281e8`  **Điểm tự động:** 84 / 88 cục bộ; 4 điểm SLO ẩn do giảng viên chấm
 
 > Kết quả chuẩn seed 25; độ ổn định kiểm tra thêm seed 26, 27. Chi tiết tái lập ở `reports/experiments/results.json`, `reports/scoreboard.multiseed.json` và các JSON/CSV cùng tên trong `reports/gameday/`, `reports/cache/`, `reports/slo.json`, `reports/workflows.json`.
 
